@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React & JavaScript**
 
-- 📫 How to reach me **nishattandar2001@gmail.com**
+- 📫 How to reach me **nishattandra2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l49Rwk8NUtCKKBbYxzagMq1fAv-dPqN5/view?usp=sharing](https://drive.google.com/file/d/1l49Rwk8NUtCKKBbYxzagMq1fAv-dPqN5/view?usp=sharing)
 
