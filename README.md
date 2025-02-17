@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishattandra&label=Profile%20views&color=0e75b6&style=flat" alt="nishattandra" /> </p>
 
-- 🔭 I’m currently working on **Solar Health Care**
+- 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Koha,Nextjs, Typescript, SQL**
+- 🌱 I’m currently learning **Koha, Python & Django**
 
-- 🤝 MERN Stack Developer at **SOlar ICT**
+- 🤝 MERN Stack Developer 
 
 - 👨‍💻 All of my projects are available at [https://nishatjahantandras-portfolio.netlify.app/](https://nishatjahantandras-portfolio.netlify.app/)
 
